@@ -1,0 +1,52 @@
+
+.general{
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    width: 50%;
+    height: 20rem;
+    font-family: 'Yellowtail', cursive;
+}
+
+body{
+    background-color: blue;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h1{
+    margin-left: 50px;
+    overflow:;
+}
+
+img{
+    margin-inline: -200%;
+    padding-top: 10%;
+    height: 100%;
+   
+}
+
+.central{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    padding: 15px;
+}
+
+p{
+    margin-right: 35px;    
+}
+
+input{
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: solid black;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
